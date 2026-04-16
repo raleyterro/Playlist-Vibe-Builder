@@ -45,3 +45,5 @@ Hugging Face Link
 
 Hugging Face Link: https://huggingface.co/spaces/raley/Playlist-Vibe-Builder  
 
+Testing: My final website passed all the edge cases I put through, with the answers always being accurate. This includes when there were no songs in the playlist or all the songs were the same. Evidence of this can bee= seen in the demo.txt file. 
+
