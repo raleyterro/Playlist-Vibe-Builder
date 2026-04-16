@@ -47,3 +47,6 @@ Hugging Face Link: https://huggingface.co/spaces/raley/Playlist-Vibe-Builder
 
 Testing: My final website passed all the edge cases I put through, with the answers always being accurate. This includes when there were no songs in the playlist or all the songs were the same. Evidence of this can bee= seen in the demo.txt file. 
 
+Author & Acknowledgements: Majority of this code was my own work, with the exception of the visualization process and some of the gradio interface. I had trouble figuring out how to input the visualization of the sorting, so I used ChatGPT to assist me. The parts of the code that changed during the process was the Gradio interface at the bottom, and the additional merge_visualization process. 
+
+Link to the chat: https://chatgpt.com/share/69e078c0-62b8-83ea-8d4a-520b4275a174
